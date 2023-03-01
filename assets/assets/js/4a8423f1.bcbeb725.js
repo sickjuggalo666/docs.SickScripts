@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_juggalodev_666=self.webpackChunkdocs_juggalodev_666||[]).push([[1438],{8388:o=>{o.exports=JSON.parse('{"permalink":"/docs.Juggin666/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
