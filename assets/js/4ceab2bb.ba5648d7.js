@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_juggalodev_666=self.webpackChunkdocs_juggalodev_666||[]).push([[465],{3458:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/docs.Juggin666/blog/tags/hello","allTagsPath":"/docs.Juggin666/blog/tags","count":2}')}}]);

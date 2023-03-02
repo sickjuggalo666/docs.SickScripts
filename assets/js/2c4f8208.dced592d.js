@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_juggalodev_666=self.webpackChunkdocs_juggalodev_666||[]).push([[2155],{6913:a=>{a.exports=JSON.parse('{"label":"Sickwarrants","permalink":"/sickjuggalo666/blog/tags/sickwarrants","allTagsPath":"/sickjuggalo666/blog/tags","count":2}')}}]);
