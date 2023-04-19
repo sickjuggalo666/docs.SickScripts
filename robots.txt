@@ -1,0 +1,4 @@
+user-agent: 'b2127d8d-dc5a-49a6-b31d-4156540458d8'
+allow: '/'
+sitemap: 'https://juggin666.com/sitemap.xml'
+
